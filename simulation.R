@@ -13,7 +13,7 @@ vecpoisson = rpois(100,5)
 mean(vecpoisson)
 
 
-# using the apply function
+# using the apply function : )
 # recall from probability that the sum of exponentials gives a gamma distribution
 # we wll confirm this by simulation
 
