@@ -4,7 +4,8 @@
 # 26/02/2022
 # from https://web.stanford.edu/class/bios221/labs/simulation/lab_3_simulation.html
 
-# set seed for the same result
+# set seed for the same result : )
+
 set.seed(198911)
 
 vecpoisson = rpois(100,5)
